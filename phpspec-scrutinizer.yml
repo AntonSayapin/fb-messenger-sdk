@@ -1,7 +1,7 @@
 suites:
     suite:
-        namespace: Tgallice\FBMessenger
-        psr4_prefix: Tgallice\FBMessenger
+        namespace: AntonSayapin\FBMessenger
+        psr4_prefix: AntonSayapin\FBMessenger
 
 extensions:
     - PhpSpec\Extension\CodeCoverageExtension
