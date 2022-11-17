@@ -1,12 +1,12 @@
 {
-  "name": "tgallice/fb-messenger-sdk",
+  "name": "antonsayapin/fb-messenger-sdk",
   "description": "Facebook Messenger Bot php sdk",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "Thomas Gallice",
-      "email": "tm.gallice@gmail.com"
+      "name": "Anton Sayapin",
+      "email": "ant.sayapin@gmail.com"
     }
   ],
   "keywords": [
@@ -20,7 +20,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Tgallice\\FBMessenger\\": "src"
+      "AntonSayapin\\FBMessenger\\": "src"
     }
   },
   "require": {
